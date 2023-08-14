@@ -1,18 +1,18 @@
 <h1 align="center">Hello there 👋 I am Jonathan !</h1>
-<h3 align="center">I like to shape ideas into working program !</h3>
+<h3 align="center">I like to shape ideas into working program and climbing !</h3>
 
 <p align="center">
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cllapuspt008208k3gr82v18b/stats?cursusId=21&coalitionId=304" alt="jrinna's 42 stats" /></a>
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-boring-man&theme=prussian&count_private=true&langs_count=5&show_icons=true&layout=donut" alt="" height="35%" width="29%"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-boring-man&theme=prussian&count_private=true&hide_rank=true&show_icons=true" alt="" height="30%" width="30%" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-boring-man&theme=prussian&count_private=true&langs_count=6&show_icons=true&layout=donut" alt="" height="35%" width="29%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-boring-man&theme=prussian&count_private=true&hide_rank=true&show_icons=true" alt="" height="27%" width="30%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arkhavy&label=Profile%20views&color=blue&style=flat" alt="Arkhavy" />
-  <a href="https://profile.intra.42.fr/users/ljohnson"><img src="https://badgen.net/badge/Born2Code/ljohnson/blue?icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" /></a>
+  <img src="https://komarev.com/ghpvc/?username=a-boring-man&label=Profile%20views&color=blue&style=flat" alt="a-boring-man" />
+  <a href="https://profile.intra.42.fr/users/jrinna"><img src="https://badgen.net/badge/Born2Code/jrinna/blue?icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" /></a>
 </p>
 
 ---
@@ -20,16 +20,13 @@
 <div align="center">
   <img src="https://badgen.net/badge/C/Advanced/blue?cache=86400" />
   <img src="https://badgen.net/badge/C++/Intermediate/blue?cache=86400" />
+  <img src="https://badgen.net/badge/Rust/Intermediate/red?cache=86400" />
   <img src="https://badgen.net/badge/Shellscript/Intermediate/green?cache=86400" />
-  <img src="https://badgen.net/badge/LaTeX/Beginner/grey?cache=86400" />
-  <img src="https://badgen.net/badge/Docker/Beginner/cyan?cache=86400&icon=docker" />
   <br>
-  <img src="https://badgen.net/badge/HTML/Intermediate/blue?cache=86400" />
-  <img src="https://badgen.net/badge/CSS/Intermediate/red?cache=86400" />
+  <img src="https://badgen.net/badge/Docker/Beginner/cyan?cache=86400&icon=docker" />
   <img src="https://badgen.net/badge/JavaScript/Intermediate/yellow?cache=86400" />
   <br>
-  <img src="https://badgen.net/badge/Self Love/Work in Progress/pink?cache=86400" />
-  <img src="https://badgen.net/badge/Ability to fly/Not a bird/grey?cache=86400" />
+  <img src="https://badgen.net/badge/Climbing/7C-8A/red?cache=86400" />
   
 </div>
 
