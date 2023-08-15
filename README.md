@@ -91,6 +91,6 @@
   
 | LinkedIn | Email |
 | :---: | :---: |
-| [ljohnson42lyon](https://www.linkedin.com/in/ljohnson42lyon/) | ljohnson@student.42lyon.fr |
+| [Jonathan Rinna](https://www.linkedin.com/in/jonathan-rinna-85b363143/) | jonathan.rinna@gmail.fr |
 
 </div>
