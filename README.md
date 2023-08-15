@@ -21,10 +21,10 @@
   <img src="https://badgen.net/badge/C/Advanced/blue?cache=86400" />
   <img src="https://badgen.net/badge/C++/Intermediate/blue?cache=86400" />
   <img src="https://badgen.net/badge/Rust/Intermediate/red?cache=86400" />
-  <img src="https://badgen.net/badge/Shellscript/Intermediate/green?cache=86400" />
+  <img src="https://badgen.net/badge/JavaScript/Intermediate/yellow?cache=86400" />
   <br>
   <img src="https://badgen.net/badge/Docker/Beginner/cyan?cache=86400&icon=docker" />
-  <img src="https://badgen.net/badge/JavaScript/Intermediate/yellow?cache=86400" />
+  <img src="https://badgen.net/badge/Shellscript/Beginner/green?cache=86400" />
   <br>
   <img src="https://badgen.net/badge/Climbing/7C-8A/red?cache=86400" />
   
@@ -89,8 +89,8 @@
 <h2 align="center">Contact</h2>
 <div align="center">
   
-| Discord | LinkedIn | Email |
-| :---: | :---: | :---: |
-| arkhavy | [ljohnson42lyon](https://www.linkedin.com/in/ljohnson42lyon/) | ljohnson@student.42lyon.fr |
+| LinkedIn | Email |
+| :---: | :---: |
+| [ljohnson42lyon](https://www.linkedin.com/in/ljohnson42lyon/) | ljohnson@student.42lyon.fr |
 
 </div>
