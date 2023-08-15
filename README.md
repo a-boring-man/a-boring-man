@@ -77,10 +77,7 @@
   
 | Easy Puzzles | Medium Puzzles | Events |
 | :---: | :---: | :---: |
-| [The Descent](https://github.com/Arkhavy/CodinGame_Easy_The_Descent) | [Shadow Of The Night Ep1](https://github.com/Arkhavy/CodinGame_Medium_Shadows_of_the_knight_ep1) | [CodinGame Spring Challenge 2022](https://github.com/Arkhavy/CodinGame_Spring_Challenge_2022) |
-| [Power of Thor](https://github.com/Arkhavy/CodinGame_Easy_Power_of_Thor) | |
-| [Temperatures](https://github.com/Arkhavy/CodinGame_Easy_Temperatures) | |
-| [Mars Lander](https://github.com/Arkhavy/CodinGame_Easy_Mars_Lander) | |
+
 
 </div> --->
 
