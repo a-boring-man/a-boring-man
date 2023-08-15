@@ -57,6 +57,7 @@
 | :---: | :---: |
 | 0/100 | 0/100 |
 
+--->
 </div>
 
 ---
@@ -64,12 +65,11 @@
 <h2 align="center">Custom projects</h2>
 <div align="center">
     
-| 42 upgraded Libft | 42 Push Swap Tester | 42 Trolls | 42 MiniRT Error tester |
-| :---: | :---: | :---: | :---: |
-| [Ark_Libft](https://github.com/Arkhavy/42_2021_ark_libft) | [Arktest Push Swap](https://github.com/Arkhavy/Arktest_Push_Swap) | [Trolls](https://github.com/Arkhavy/trolls) | [Arktest MiniRT](https://github.com/Arkhavy/Arktest_MiniRT) |
-    
+| Fictional Assembly_line | very basic unoptimised rust ray tracer | guessing game |
+| :---: | :---: | :---: |
+| **[Assembly_line](https://github.com/a-boring-man/Assembly_Line)** | **[rust tracer](https://github.com/a-boring-man/Rust_Raytracer)** | **[rust guessing game](https://github.com/a-boring-man/Guessing_Game)** |
 </div>
-
+<!---
 ---
 
 <h2 align="center">CodinGame Puzzles</h2>
