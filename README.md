@@ -65,7 +65,7 @@
 <h2 align="center">Custom projects</h2>
 <div align="center">
     
-| Fictional Assembly_line | very basic unoptimised rust ray tracer | guessing game |
+| matrix | Fictional Assembly_line | very basic unoptimised rust ray tracer | guessing game |
 | :---: | :---: | :---: | :---: |
 | **[matrix](https://github.com/a-boring-man/matrix)** | **[Assembly_line](https://github.com/a-boring-man/Assembly_Line)** | **[rust tracer](https://github.com/a-boring-man/Rust_Raytracer)** | **[rust guessing game](https://github.com/a-boring-man/Guessing_Game)** |
 </div>
