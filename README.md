@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋 I am Jonathan !</h1>
-<h3 align="center">I like to shape ideas into working program and climbing !</h3>
+<h3 align="center">I like learning new things and climbing !</h3>
 
 <p align="center">
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cllapuspt008208k3gr82v18b/stats?cursusId=21&coalitionId=304" alt="jrinna's 42 stats" /></a>
