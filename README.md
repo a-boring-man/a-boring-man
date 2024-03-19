@@ -65,9 +65,9 @@
 <h2 align="center">Custom projects</h2>
 <div align="center">
     
-| matrix library | Fictional Assembly_line | A still-developing Rust ray tracer | guessing game |
+| matrix library | Malloc | A still-developing Rust ray tracer | guessing game |
 | :---: | :---: | :---: | :---: |
-| **[matrix](https://github.com/a-boring-man/matrix)** | **[Malloc](https://github.com/a-boring-man/custom_memory_allocator)** | **[RT](https://github.com/a-boring-man/RT)** | **[rust guessing game](https://github.com/a-boring-man/Guessing_Game)** |
+| **[matrix](https://github.com/a-boring-man/matrix)** | **[Custom Malloc](https://github.com/a-boring-man/custom_memory_allocator)** | **[RT](https://github.com/a-boring-man/RT)** | **[rust guessing game](https://github.com/a-boring-man/Guessing_Game)** |
 </div>
 <!---
 ---
