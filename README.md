@@ -23,7 +23,6 @@
   <img src="https://badgen.net/badge/C++/Intermediate/blue?cache=86400" />
   <br>
   <img src="https://badgen.net/badge/Shellscript/Beginner/green?cache=86400" />
-  <br>
   <img src="https://badgen.net/badge/Climbing/7B-7C/red?cache=86400" />
   
 </div>
